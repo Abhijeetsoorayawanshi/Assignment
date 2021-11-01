@@ -19,7 +19,7 @@ else
 }
 
 
-var a = "calling y before defining it :-";
+var a = "calling y before declaring it :-";
 console.log(a);
 // not defined
 console.log(y);
